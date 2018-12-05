@@ -1,6 +1,7 @@
 <template>
 	<div class="Pos">
 		Hello Pos Demo!
+		<i class="icon iconfont icon-hanbao"></i>
 	</div>
 </template>
 
